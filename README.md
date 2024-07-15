@@ -7,6 +7,7 @@
 清华镜像：[https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)
 豆瓣镜像：[https://pypi.doubanio.com/simple/](https://pypi.doubanio.com/simple/)
 首都在线科技股份有限公司镜像：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
+
 ## 大学镜像
 兰州大学镜像：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
 中科大镜像：[http://mirrors.ustc.edu.cn/](http://mirrors.ustc.edu.cn/)
